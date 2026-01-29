@@ -18,7 +18,7 @@ def get_ollama_llm(model_name: str):
         return _current_llm_instance
 
     # Create new Ollama LLM instance
-    llm = Ollama(base_url=OLLAMA_URL, model=model_name)
+    llm = Ollama(base_url=OLLAMA_URL, model=model_name,  request_timeout=300.0)
 
     # Update cache
     _current_model_name = model_name
@@ -30,6 +30,6 @@ def get_ollama_llm(model_name: str):
 
 
 #Example usage
-check_llm = get_ollama_llm(model_name="llama3:latest")
-print(check_llm)
-print(type(check_llm))
+# check_llm = get_ollama_llm(model_name="llama3:latest")
+# print(check_llm)
+# print(type(check_llm))

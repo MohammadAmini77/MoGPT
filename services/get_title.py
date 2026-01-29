@@ -17,10 +17,10 @@ def get_chat_title(model, user_query):
     return title
 
 
-# Example usage
-model = "llama3:latest"
-user_query = "Can you explain the concept of reinforcement learning and its applications in modern AI"
-title = get_chat_title(model, user_query)
-print(title)
+# # Example usage
+# model = "llama3:latest"
+# user_query = "Can you explain the concept of reinforcement learning and its applications in modern AI"
+# title = get_chat_title(model, user_query)
+# print(title)
 
-# NOTE: Smaller models (like gemma 2b) may not give you accurate and short title.
+# # NOTE: Smaller models (like gemma 2b) may not give you accurate and short title.
