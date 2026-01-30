@@ -45,24 +45,27 @@ https://ollama.com/download
 
 ollama --version
 
+### 2️⃣ Pull Models
+
 ollama pull gemma2:2b
 ollama pull gemma3:12b
 ollama pull qwen3:4b
 
 
+### 3️⃣ Clone the Repository
 git clone https://github.com/MohammadAmini77/MoGPT.git
 cd MoGPT
 
-
+### 4️⃣ Install Dependencies
 pip install -r requirements.txt
 
-
+### 5️⃣ Run MoGPT
 streamlit run app.py
 
 
 http://localhost:8501
 
-
+### 📂 Project Structure
 MoGPT/
 │── app.py                # Main application
 │── requirements.txt      # Python dependencies
