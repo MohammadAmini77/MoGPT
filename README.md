@@ -1,4 +1,3 @@
-<img width="1902" height="904" alt="Screenshot (447)" src="https://github.com/user-attachments/assets/6ffee15a-c0c8-4da5-887e-6978569b2dd5" /># MoGPT
 
 # 🤖 MoGPT — Local ChatGPT Powered by Ollama
 
