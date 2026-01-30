@@ -68,9 +68,12 @@ cd MoGPT
 ```bash
 pip install -r requirements.txt
 ```
-```bash
+
 ### 5️⃣ Run MoGPT
+```bash
 streamlit run app.py
+
+```
 
 
 http://localhost:8501
