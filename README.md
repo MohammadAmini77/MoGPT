@@ -1,11 +1,12 @@
-# MoGPT
+<img width="1902" height="904" alt="Screenshot (447)" src="https://github.com/user-attachments/assets/6ffee15a-c0c8-4da5-887e-6978569b2dd5" /># MoGPT
 
 # 🤖 MoGPT — Local ChatGPT Powered by Ollama
 
 MoGPT is a **local, private ChatGPT-like interface** built on top of **Ollama**, allowing you to run and chat with large language models entirely on your own machine.  
 Fast, lightweight, and privacy-friendly — no data leaves your system.
 
-![MoGPT Screenshot](./Screenshot%20(447).png)
+![MoGPT Screenshot](https://github.com/user-attachments/assets/d879a7cf-a24d-427f-a6df-0e2a75748b3e)
+
 
 ---
 
