@@ -77,10 +77,3 @@ http://localhost:8501
 
 ```
 
-
-### 📂 Project Structure
-MoGPT/
-│── app.py                # Main application
-│── requirements.txt      # Python dependencies
-│── README.md             # Project documentation
-│── assets/               # Images / UI assets
