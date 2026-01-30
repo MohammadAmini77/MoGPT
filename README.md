@@ -39,31 +39,40 @@ Fast, lightweight, and privacy-friendly — no data leaves your system.
 Make sure Ollama is installed and running:
 
 ```bash
+
 https://ollama.com/download
 
 
-
 ollama --version
+```
+
 
 ### 2️⃣ Pull Models
-
+```bash
 ollama pull gemma2:2b
 ollama pull gemma3:12b
 ollama pull qwen3:4b
 
-
+```
 ### 3️⃣ Clone the Repository
+```bash
 git clone https://github.com/MohammadAmini77/MoGPT.git
 cd MoGPT
+```
 
+```bash
 ### 4️⃣ Install Dependencies
 pip install -r requirements.txt
-
+```
+```bash
 ### 5️⃣ Run MoGPT
 streamlit run app.py
 
 
 http://localhost:8501
+
+```
+
 
 ### 📂 Project Structure
 MoGPT/
