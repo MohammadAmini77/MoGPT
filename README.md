@@ -54,14 +54,18 @@ ollama pull gemma3:12b
 ollama pull qwen3:4b
 
 ```
+
 ### 3️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/MohammadAmini77/MoGPT.git
 cd MoGPT
 ```
 
-```bash
+
 ### 4️⃣ Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 ```bash
